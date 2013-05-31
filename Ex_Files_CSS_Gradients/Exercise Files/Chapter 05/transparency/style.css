@@ -1,0 +1,5 @@
+body{
+	background: url('images/sky.jpg'), white;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}

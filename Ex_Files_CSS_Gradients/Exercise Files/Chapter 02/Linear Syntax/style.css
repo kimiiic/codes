@@ -1,0 +1,8 @@
+#box{
+	width:500px;
+	height:500px;
+	background: -webkit-linear-gradient( #fff,#000);
+	background: -moz-linear-gradient(#fff,#000);
+	background: -ms-linear-gradient(#fff,#000);
+	background: -o-linear-gradient(#fff,#000);
+}
